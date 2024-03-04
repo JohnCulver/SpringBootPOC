@@ -2,9 +2,6 @@
 SpringBootPOC in VSCode
 This is to see if VSCode will work easily or be difficult to use with Java
 
-
-
-
 # OS setup
 - install SDKMAN `curl -s "https://get.sdkman.io" | bash`
 - install java version 21 via SDKMAN `sdk install java 21.0.2-open`
